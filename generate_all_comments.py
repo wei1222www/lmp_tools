@@ -1,3 +1,5 @@
+#用于给lmp文件生成键、角等的注释
+
 import sys
 import os
 import re
